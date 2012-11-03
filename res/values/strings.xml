@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SingletonPattern</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">SingletonPattern</string>
+    <string name="title_activity_another">AnotherActivity</string>
+	<string name="btn_to_another_activity">To Another Activity</string>
+    
+</resources>
